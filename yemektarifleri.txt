@@ -1,0 +1,9 @@
+
+Yemek Adi: Dolma
+ Yemek Tarifi
+ 1- Bulgur
+2- Dolmalik biber
+3- Salca
+4- Sogan
+5- Baharatlar
+
